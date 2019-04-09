@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+  
+<suite name="Test Suite" verbose="1" parallel="instances">
+
+	<test name="Tests">
+
+		<packages>
+			<package name="xyz.swatt.testng"/>
+		</packages>
+
+	</test>
+	 
+</suite>
